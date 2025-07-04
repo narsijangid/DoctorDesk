@@ -10,29 +10,6 @@ DoctorDesk is a modern, full-stack medical appointment system where doctors and 
 - **Database:** MongoDB (with Mongoose)
 - **API Communication:** RESTful APIs (Axios)
 
-## 📁 Project Structure
-
-/project-root
-│
-├── /backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── config/
-│ ├── middleware/
-│ ├── server.js
-│ ├── .env
-│ └── package.json
-│
-├── /frontend
-│ ├── public/
-│ ├── src/
-│ ├── App.js
-│ ├── index.js
-│ └── package.json
-│
-├── README.md
-└── .gitignore
 
 
 
